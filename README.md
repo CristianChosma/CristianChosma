@@ -1,8 +1,11 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Calzolari Cristian</a> 💻👋</h1>
+Estoy cursando el último año de la Tecnicatura en Programación en la Universidad Tecnologica Nacional (UTN) sede San Rafale (Mza)
+Gracias a mi formación en esta Tecnicatura, he logrado habilidades en diversos lenguajes de programación como Java, JavaScript, Python, HTML y CSS.
+Esto me ha habilitado para participar en el desarrollo de proyectos, tanto del Fornt-End como el Back-End.
+Dispuesto a colaborar eficientemente en equipos de trabajos, manteniendo una comunicación efectiva y flexible a posibles cambios. 
 
-
-
-
+---
+# Contacto: A través de mi correo electrónico: 📫 ccalzolari71@gmail.com
 ---
 Front-end:
  <br>
